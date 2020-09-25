@@ -18,8 +18,8 @@
       :explanation="l.explanation"
       >
       <b-card class="row">
-        <img style="max-width:40%" :src="l.hdurl" />
-        <div class="col-6">
+        <img style="max-width:50%" :src="l.hdurl" />
+        <div class="col">
           {{ l.date }}
           <br />
           {{ l.title }}

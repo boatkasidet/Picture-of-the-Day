@@ -17,7 +17,8 @@ export default {
 
 <style>
 body{
-  background-color: aliceblue;
+  background: url("https://images8.alphacoders.com/105/thumb-1920-1057020.jpg");
+  background-size: 100%;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -25,5 +26,6 @@ body{
   -moz-osx-font-smoothing: grayscale;
   padding: 100px; 
   padding-top: 50px;
+  color: white;
 }
 </style>
