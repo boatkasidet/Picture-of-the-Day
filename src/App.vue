@@ -7,7 +7,7 @@
 <script>
 import PicDay from './components/PicDay'
 export default {
-  name: 'App',
+  name: 'app',
   components: {
     PicDay
   }

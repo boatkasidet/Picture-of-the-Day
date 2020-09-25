@@ -1,5 +1,5 @@
 <template>
-  <onDisplay class="container">
+  <onDisplay>
     <strong class="display-2">Picture of the Day</strong>
     <br />
     <input class="ml-1" type="text" placeholder="Day Number" v-model="DayID" />
@@ -24,7 +24,7 @@
           <br />
           {{ l.title }}
           <br />
-          {{ l.explanation }}
+         {{ l.explanation }}
         </div>
       </b-card>
 
